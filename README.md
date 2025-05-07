@@ -2,8 +2,8 @@
 
 Welcome to the **Movie Recommender App** — a smart tool that helps users discover movies similar to the ones they already love! This content-based recommendation system suggests films based on metadata like genres, keywords, and storyline.
 
-![Banner](Screenshot 2025-05-07 222220.png) 
-![Banner](Screenshot 2025-05-07 222250.png) 
+![Banner](assets/Screenshot 2025-05-07 222220.png) 
+![Banner](assets/Screenshot 2025-05-07 222250.png) 
 
 ---
 
